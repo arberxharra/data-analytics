@@ -1,0 +1,27 @@
+1. What conclusion can you reach about the responses to this question?
+
+My Conclusion is that most of the student use a second device whenever it is an Tablet, Laptop, or a screen.
+But also some student's were only using a single device. 
+Most students prepare before class and use their computers, but some have different ways and habits of preparing.
+2. Is the default summary or visualization helpful? How could it be improved?
+Yes the summary is helpful because it shows the students' answer, but it could be more improved by adding charts, percentages, and grabhs to make the information easier to understand and compare.
+
+3. For questions with an “Other” option, where can you find the actual text of those
+responses? Do you notice anything that might be tricky about analyzing these?
+The other responses can be found in the Excel spreadsheet. They can be difficult to analyze because students write different answers using their own words, making it harder to group similar responses together.
+
+4. For questions calling for a written response, what challenges do you notice about
+finding trends or patterns in the answers provided?
+The challenge is that students explain their answers differently, some give shorter answers, while some others provide longer asnwers with more details. This does make it more difficult to identify common patterns and trends in the data.
+
+5. Now that you can see the responses, how might you recommend rephrasing this or
+question or the response options in a future survey?
+I would make the survey questions be clearer and also easier to understand. I would also provide more specific answers choices so students can select option that best describe their experiences. This should make the results easer to analyze
+
+6. Is there anything that surprised you about the survey responses?
+Well what surprised me was the fact that some students don't use a second device and that everyone else has their ways for preparing for class.
+
+
+7. Looking at the responses to questions 1 and 5, are there any ideas you might try to
+include in your morning routine, or any questions that you are also curious about?
+I would try to review my notes before class starts and also prepare my laptop or any device that i will use earlier. I'm also curious about which mourning routines can help students stay more focused
